@@ -1,4 +1,4 @@
-# The Dice App :nerd_face
+# The Dice App :nerd_face:
 
 A new Flutter project.
 
