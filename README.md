@@ -1,6 +1,9 @@
-# the_dice_app
+# The Dice App :nerd_face
 
 A new Flutter project.
+
+## The vedio of the App is as follows :
+![test]()
 
 ## Getting Started
 
